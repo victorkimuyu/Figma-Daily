@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc75e86e68511d8",
+        "id": "0955da121dc4e005",
         "type": "tabs",
         "children": [
           {
-            "id": "0463b2f8e4e10826",
+            "id": "2bee96beb28b1571",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "challenges/2022-11-08/readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "challenges/2022-11-08/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "challenges/2022-11-08/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "challenges/2022-11-08/readme.md"
+              }
             }
           }
         ]
@@ -128,15 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "600f07afa073ae92",
+  "active": "2bee96beb28b1571",
   "lastOpenFiles": [
     "Readme.md",
-    "().md",
-    "2022-11-07/readme.md",
-    "2022-11-07/workspace_screenshot.png",
     "2022-11-07/challenge.png",
-    "2022-11-07/design.png",
-    "2022-11-07.md",
-    "2022-11-07/Readme.md"
+    "challenges/2022-11-08/design.png",
+    "challenges/2022-11-08/challenge.png",
+    "challenges/2022-11-08/readme.md",
+    "challenges/2022-11-07/readme.md",
+    "challenges/2022-11-08/workspace.png",
+    "challenges/2022-11-08/Untitled.md",
+    "().md",
+    "2022-11-07/readme.md"
   ]
 }

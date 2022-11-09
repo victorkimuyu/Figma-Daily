@@ -13,4 +13,4 @@ First day is 2022-11-07. Hopefully, I can generate enough enthusiasm to do a pro
 ## Objective
 The aim is to build a expert-level proficiency in Figma. I will then attempt enrolling in the toptal network and build an upwork profile seeking UI design work.
 
-To infinity and beyond!%%
+To infinity and beyond!
